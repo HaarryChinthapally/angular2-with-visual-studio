@@ -1,0 +1,5 @@
+.vs
+angular2-with-visual-studio/node_modules/
+bin
+obj
+npm-debug.log
